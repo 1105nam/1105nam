@@ -15,7 +15,11 @@ Hello! 👋 I'm Nam Taek Wan, a junior developer and engineer striving for growt
 
 ---
 
+<details>
+<summary><h3>View Details</h3></summary>
+    
 ### 🛠️ Skills
+
 - **Proficient**:
     - Android (Kotlin)
     - JavaScript
@@ -65,6 +69,8 @@ Hello! 👋 I'm Nam Taek Wan, a junior developer and engineer striving for growt
 - **[Polling App Development](https://github.com/1105nam/polling-client)**: Client app development and various feature implementations
 - **CCTV Integration System Development**: Overall planning and maintenance of the system
 - **Server Setup and Maintenance**: Experience in setting up and leveraging servers for various organizational purposes
+
+</details>
 
 ---
 
