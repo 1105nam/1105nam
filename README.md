@@ -42,7 +42,7 @@ Hello! 👋 I'm Nam Taek Wan, a junior developer and engineer striving for growt
 - GTQ 1급 (Obtained July 14, 2017)
 - 정보기기운용기능사 (Obtained July 5, 2017)
 - [TOPCIT](https://www.topcit.or.kr/) score of 620 (Obtained November 27, 2023)
-- 정보처리기사 (Expected June 18, 2024)
+- 정보처리기사 (Obtained June 18, 2024)
 
 ---
 
