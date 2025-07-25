@@ -8,10 +8,6 @@ Hello! 👋 I'm Nam Taek Wan, a junior developer and engineer striving for growt
 - **Education**: Expected to graduate from Chung-Ang University, Department of Computer Science and Engineering (March 2018 - August 2025, completed 8 semesters)
 - **IT Military Service**: Simsimi, Inc. (August 2019 - July 2021)
 - **Intern Experience**: Da Vinci View, Inc. (March 2023 - June 2023)
-- **Portfolio**: [Link](https://1105nam.notion.site/) 
-
-### 💌 Contact
-- Email: [Send Email](mailto:1105nam@naver.com) 
 
 ---
 
